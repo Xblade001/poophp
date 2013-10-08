@@ -6,7 +6,7 @@ class Cabecera {
     }
     public function graficar() {
         echo "<head>";
-        echo "<title>. $this->titulo . </title>";
+        echo "<title> $this->titulo  </title>";
         echo "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">";
         echo "</head>";
     }
