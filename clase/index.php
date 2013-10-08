@@ -11,5 +11,4 @@ $pagina1->insertarCuerpo('Esto es una prueba que debe aparecer dentro del cuerpo
 $pagina1->insertarCuerpo('Esto es una prueba que debe aparecer dentro del cuerpo de la página 8');
 $pagina1->insertarCuerpo('Esto es una prueba que debe aparecer dentro del cuerpo de la página 9');
 $pagina1->graficar();
-
 ?>
